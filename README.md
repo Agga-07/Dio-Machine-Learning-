@@ -22,4 +22,4 @@ Para obter mais referências sobre campos individuais, consulte o Glossário de 
     Muitas vendas ocorrem com uma quantia absurdamente pequena em dólares: $ 0 mais comumente. Essas vendas são, na verdade, transferências de escrituras entre as partes: por exemplo, pais que transferem a propriedade de sua casa para um filho depois de se mudarem para a aposentadoria.
 Este conjunto de dados usa a definição financeira de um edifício/unidade de construção, para fins fiscais. 
 
-```markdown![Graficos](https://github.com/Agga-07/Dio-Machine-Learning-/blob/main/Grafico1.png)
+```markdown![Graficos](Grafico1.png)
