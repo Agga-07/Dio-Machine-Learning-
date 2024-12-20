@@ -7,7 +7,7 @@ Um ano(2017) de propriedades vendidas no mercado imobiliário de Nova York
 
 Este conjunto de dados contém a localização, endereço, tipo, preço de venda e data de venda das unidades de construção vendidas. Uma referência sobre os campos mais complicados:
 
-    # BOROUGH:
+   # BOROUGH:
   Um código de dígito para o bairro em que a propriedade está localizada; em ordem, estão Manhattan (1), Bronx (2), Brooklyn (3), Queens (4) e Staten Island (5).
 
    # BLOCK; LOT: 
