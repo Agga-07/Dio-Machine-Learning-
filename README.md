@@ -23,3 +23,6 @@ Para obter mais referências sobre campos individuais, consulte o Glossário de 
 Este conjunto de dados usa a definição financeira de um edifício/unidade de construção, para fins fiscais. 
 
 markdown![Graficos](Grafico1.png)
+markdown![Grafico2](Grafico2.png)
+
+
